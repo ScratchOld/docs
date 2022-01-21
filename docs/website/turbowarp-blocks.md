@@ -11,7 +11,7 @@ TurboWarp has a section of blocks that allows you to use certain features previo
 
 ![is compiled?](./assets/is-compiled.svg)
 
-See https://scratch.mit.edu/projects/414716080/
+See https://scratch.mit.edu/projects/414716080/editor/
 
 These blocks are "compatible" with Scratch because they're actually just modified argument reporters.
 
